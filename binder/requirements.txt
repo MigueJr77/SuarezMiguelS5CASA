@@ -6,3 +6,6 @@ matplotlib
 jupyterlab_launcher>=0.5.0
 scipy
 numpy
+git add binder/requirements.txt
+git commit -m "Añadir archivo requirements.txt"
+git push origin main
